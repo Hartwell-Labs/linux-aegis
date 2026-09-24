@@ -1,6 +1,17 @@
 <div align="center">
 
-# 🛡️ AEGIS
+<img src="https://raw.githubusercontent.com/Hartwell-Labs/.github/main/profile/assets/hartwell-logo.svg" width="72" alt="Hartwell Labs" />
+
+## AEGIS
+
+Linux kernel security module (LSM) — enforcement where the attacks actually happen.
+
+[![C](https://img.shields.io/badge/C-kernel%20module-F15A24?style=flat-square&logo=linux)](.)
+[![License](https://img.shields.io/badge/license-MIT-F15A24?style=flat-square)](LICENSE) [![Website](https://img.shields.io/badge/site-hartwell--labs.github.io-4f46e5?style=flat-square)](https://hartwell-labs.github.io)
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security](https://hartwell-labs.github.io/security/) · [Hack the Lab](https://github.com/Hartwell-Labs/hack-the-lab)
+
+</div>
 
 **Advanced Guardian for Integrated System Security**
 
@@ -220,3 +231,14 @@ the Linux kernel licensing model. See [`COPYING`](COPYING).
 
 Extended dossiers (architecture, verification, benchmarks, error codex) ship in this repo:
 - [SECURITY-aegis.md](SECURITY-aegis.md)
+---
+
+<div align="center">
+
+**[Hartwell Labs](https://github.com/Hartwell-Labs)** — security systems, languages and tools, built in the open.
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security policy](https://hartwell-labs.github.io/security/) · [Report a vulnerability](https://hartwell-labs.github.io/security/)
+
+<sub>MIT License · © 2026 Hartwell Labs</sub>
+
+</div>
